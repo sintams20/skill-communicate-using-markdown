@@ -8,3 +8,6 @@ x = 3;
 y = 5
 print(x+y);
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
